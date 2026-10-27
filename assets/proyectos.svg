@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="364" viewBox="0 0 1200 364">
+<style>
+.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.k{font-size:15px;fill:#8b949e;letter-spacing:3px}
+.h{font-size:21px;font-weight:700;fill:#f0f6fc}
+.d{font-size:15px;fill:#8b949e}
+.g{font-size:12px;letter-spacing:2px;font-weight:600}
+.fade{opacity:0;animation:in .9s ease-out forwards}
+@keyframes in{from{opacity:0}to{opacity:1}}
+.pulse{animation:pu 2s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.3}}
+</style>
+<rect width="1200" height="364" rx="18" fill="#0d1117"/>
+<text x="40" y="44" class="t k">OTRAS COSAS QUE HE CONSTRUIDO</text>
+<g class="fade" style="animation-delay:0.2s">
+<rect x="40" y="66" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="52" y="84" width="4" height="88" rx="2" fill="#f778ba"/>
+<circle cx="80" cy="102" r="7" fill="#f778ba" class="pulse" style="animation-delay:0.2s"/>
+<text x="98" y="109" class="t h">Custodio</text>
+<text x="72" y="142" class="t d">Agente que decide qué facturas</text>
+<text x="72" y="164" class="t d">paga una empresa. Hackathon 30X</text>
+<text x="380" y="109" text-anchor="end" class="t g" fill="#f778ba">AGENTE</text>
+</g><g class="fade" style="animation-delay:0.35s">
+<rect x="420" y="66" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="432" y="84" width="4" height="88" rx="2" fill="#e3b341"/>
+<circle cx="460" cy="102" r="7" fill="#e3b341" class="pulse" style="animation-delay:0.35s"/>
+<text x="478" y="109" class="t h">Tinto Rush</text>
+<text x="452" y="142" class="t d">Juego: desliza pocillos de</text>
+<text x="452" y="164" class="t d">tinto por la mesa de la oficina</text>
+<text x="760" y="109" text-anchor="end" class="t g" fill="#e3b341">JUEGO</text>
+</g><g class="fade" style="animation-delay:0.5s">
+<rect x="800" y="66" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="812" y="84" width="4" height="88" rx="2" fill="#39d353"/>
+<circle cx="840" cy="102" r="7" fill="#39d353" class="pulse" style="animation-delay:0.5s"/>
+<text x="858" y="109" class="t h">Pintor</text>
+<text x="832" y="142" class="t d">Genera tarjetas de Instagram</text>
+<text x="832" y="164" class="t d">solas dentro de un flujo n8n</text>
+<text x="1140" y="109" text-anchor="end" class="t g" fill="#39d353">AUTOMATIZACIÓN</text>
+</g><g class="fade" style="animation-delay:0.65s">
+<rect x="40" y="210" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="52" y="228" width="4" height="88" rx="2" fill="#58a6ff"/>
+<circle cx="80" cy="246" r="7" fill="#58a6ff" class="pulse" style="animation-delay:0.65s"/>
+<text x="98" y="253" class="t h">REmind</text>
+<text x="72" y="286" class="t d">Recordatorios e ideas</text>
+<text x="72" y="308" class="t d">conectados a Claude</text>
+<text x="380" y="253" text-anchor="end" class="t g" fill="#58a6ff">HERRAMIENTA</text>
+</g><g class="fade" style="animation-delay:0.8s">
+<rect x="420" y="210" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="432" y="228" width="4" height="88" rx="2" fill="#d2a8ff"/>
+<circle cx="460" cy="246" r="7" fill="#d2a8ff" class="pulse" style="animation-delay:0.8s"/>
+<text x="478" y="253" class="t h">Noticias + TRM</text>
+<text x="452" y="286" class="t d">Noticias por tema resumidas</text>
+<text x="452" y="308" class="t d">con IA y la TRM del día</text>
+<text x="760" y="253" text-anchor="end" class="t g" fill="#d2a8ff">HERRAMIENTA</text>
+</g><g class="fade" style="animation-delay:0.95s">
+<rect x="800" y="210" width="360" height="124" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="812" y="228" width="4" height="88" rx="2" fill="#ffa657"/>
+<circle cx="840" cy="246" r="7" fill="#ffa657" class="pulse" style="animation-delay:0.95s"/>
+<text x="858" y="253" class="t h">Oficio en el tiempo</text>
+<text x="832" y="286" class="t d">Proyecto del Claude Build Day</text>
+<text x="832" y="308" class="t d">en Bogotá</text>
+<text x="1140" y="253" text-anchor="end" class="t g" fill="#ffa657">EVENTO</text>
+</g>
+</svg>

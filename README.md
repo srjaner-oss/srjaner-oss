@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://somosjano.com">🏴 JANO</a> ·
   <a href="https://parlandoapp.com">🎙️ Parlando</a> ·
-  <a href="https://github.com/srjaner-oss/parlando-web">📂 Web de Parlando</a>
+  <a href="https://github.com/srjaner-oss/parlando-web">📂 Web de Parlando</a> ·
+  <a href="https://github.com/srjaner-oss/tinto-rush-demo">☕ Tinto Rush</a>
 </p>
 
 ---
